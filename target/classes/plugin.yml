@@ -1,0 +1,4 @@
+name: DecisiveCraft IRC
+main: net.thewebgamer.bungee.chat.DCBungee
+author: github.com/JoshMorgan
+version: 1.7.2
